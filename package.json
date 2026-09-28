@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/pushset",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Push numeric set values, ranges, and human-readable units.",
+  "bin": {
+    "pushset": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/pushset.git"
+  },
+  "homepage": "https://theworker02.github.io/pushset/",
+  "keywords": [
+    "push",
+    "set",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
